@@ -1,5 +1,5 @@
 # PROJETO ITP 2017.2
-## Programa Para Diagnóstico de Catarata
+## Sistema Para Diagnóstico de Catarata
 
 #### Feito por: Lucas Gabriel Matias Paiva
 
@@ -31,7 +31,7 @@
 	Digite 'make' no terminal;
 	Execute no formato: ./Catarata -i <input-imagem-com-formato> -o <input-formato-da-imagem> -f <nome-do-arquivo-diagnóstico.ppm>.
 
-### Para limpar executáveis:
+### Para limpar os executáveis:
 	No terminal, no mesmo diretório de compilação digitar 'make clean'
 	
 
